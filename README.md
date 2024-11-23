@@ -28,13 +28,12 @@ Other Technologies: JWT, Material UI, Tailwind css
 ## Installation
 
 To set up the project locally, follow these steps:
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```
-git clone https://github.com/username/repository.git
+git clone https://github.com/AMAN0304GIT/foodplaza_project.git
 ```
 ```
-cd repository
+cd foodplaza_project
 ```
 ```
 npm install
