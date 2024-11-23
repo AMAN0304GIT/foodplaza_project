@@ -1,31 +1,49 @@
-**Food Plaza**
+# Food Plaza
+
 Web-app used to order food online
 
-**About the Project**
+# About the Project
 Provide a detailed description of your project.
 
+#
 What problem does it solve?
+
 Who is it for?
+
 What inspired you to create it?
 
-**Features**
+# Features
 List the main features of the project
 Add links/screenshots (if applicable)
 
+# Tech Stack
+Frontend: React.js
 
-**Tech Stack**
-**Frontend:** React.js
-**Backend:** Node.js, Spring Boot
-**Database:** MySQL
-**Other Technologies:**  JWT, Material UI, Tailwind css
+Backend: Node.js, Spring Boot
 
-**Installation**
+Database: MySQL
+
+Other Technologies: JWT, Material UI, Tailwind css
+
+## Installation
+
 To set up the project locally, follow these steps:
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-***git clone https://github.com/username/repository.git***
-***cd repository***
-***npm install***
-***npm start***
+```
+git clone https://github.com/username/repository.git
+```
+```
+cd repository
+```
+```
+npm install
+```
+```
+npm start
+```
+.
 
-**License**
+## License
+
 This project is licensed under the CDAC License. See the LICENSE file for details.
