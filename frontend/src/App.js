@@ -11,7 +11,11 @@ function App() {
       <CssBaseline />
       <Navbar />
       <Home />
+      <CustomerRoute>
+      <Auth/>
+      </CustomerRoute>
     </ThemeProvider>
+    
   );
 }
 
